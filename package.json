@@ -1,0 +1,23 @@
+{
+  "name": "Hangman-Cli",
+  "version": "1.0.0",
+  "description": "This is a hangman game using node.js and the command line.",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidl199/Hangman-Cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidl199/Hangman-Cli/issues"
+  },
+  "homepage": "https://github.com/davidl199/Hangman-Cli#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
