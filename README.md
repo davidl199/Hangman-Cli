@@ -1,7 +1,8 @@
 # Hangman-Cli
 This is a hangman game using node.js and the command line.
 
-This project was a exercise in using node.js on the command line to call API's from the bash command line.
+This project was a exercise in using node.js on the bash command line.
+
 It requires the following packages
 * inquirer
 * mysql
