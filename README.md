@@ -1,11 +1,10 @@
 # Hangman-Cli
 This is a hangman game using node.js and the command line.
 
-This project was a exercise in using node.js on the bash command line.
+This project was a exercise in using node.js on the bash command line and using object constructors in javascript.
 
 It requires the following packages
 * inquirer
-* mysql
 
 # How the program works
 
